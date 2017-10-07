@@ -25,6 +25,6 @@ public class AudioHandler{
     static SpeechRecognizer speechAPI;
 
     public AudioHandler(){
-//        speechAPI = SpeechRecognizer.createSpeechRecognizer();
+        speechAPI = SpeechRecognizer.createSpeechRecognizer(getApplicationContext());
     }
 }
