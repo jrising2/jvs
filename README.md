@@ -1,4 +1,4 @@
-#jargonvonwrangle
+# jargonvonwrangle
 Learn the language of experts by understanding their jargon. Users can flag terms they are unfamiliar with while conversing with a technobabbler for instant clarification or later review.
 
 ## Kent Hack Enough '17
